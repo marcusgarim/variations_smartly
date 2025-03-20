@@ -1,5 +1,4 @@
 # Certifique-se de instalar as dependências necessárias:
-# pip install pandas openpyxl
 
 import pandas as pd
 import os
